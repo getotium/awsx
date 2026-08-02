@@ -28,7 +28,7 @@ pricingClient := awsx.Pricing(cfg)          // Price List client (global, adapti
 
 ## Provenance
 
-Extracted from [Otium](https://getotium.com), where it backs the AWS pricing and capacity sources.
+Extracted from [Otium](https://getotium.ai), where it backs the AWS pricing and capacity sources.
 Deliberately minimal — credential resolution + client construction, nothing more.
 
 ## License
